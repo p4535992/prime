@@ -16,3 +16,7 @@
 - Neutralizing local threats.
 - Retrieving alchemical substances for wealthy patrons.
 - Exploring Nalia.
+## Organization Structure
+See [Parent Organization](#Parent-Organization)
+## Location
+[Cyrl](../Atlas/Aer/Settlements/Cyrl.md)
