@@ -5,6 +5,18 @@
 
 - [Longmont Estate](#Longmont-Estate)
   - [The Reliquary](#The-Reliquary)
+    - [Items of Interest](#Items-of-Interest)
+      - [The Old Man](#The-Old-Man)
+        - [Notes](#Notes)
+      - [Tome of the Stoic Stones](#Tome-of-the-Stoic-Stones)
+      - [Tales of Strife](#Tales-of-Strife)
+      - [The Game of Man and Woman](#The-Game-of-Man-and-Woman)
+      - [When the Morning Bell Rang](#When-the-Morning-Bell-Rang)
+      - [Maldur's Bane](#Maldurs-Bane)
+      - [Songs of Lehir](#Songs-of-Lehir)
+        - [Gryff's Notes](#Gryffs-Notes)
+      - [The Golden Key](#The-Golden-Key)
+      - [Gryff's Journal](#Gryffs-Journal)
 
 ## The Reliquary
 *The Reliquary at Longmont Estate serves as both a reliquary, library and study. Syr Longmont has filled it with trinkets from his past, rare artifacts and his ever-growing collection of tomes.*
