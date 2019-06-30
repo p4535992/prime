@@ -1,5 +1,20 @@
 # Martin Felstorm
 *Leader of the Adventurer's Guild in Cyrl*
+
+- [Martin Felstorm](#Martin-Felstorm)
+  - [Occupation](#Occupation)
+  - [Attributes/Skills](#AttributesSkills)
+  - [Values/Motivations](#ValuesMotivations)
+  - [Behavior](#Behavior)
+  - [Useful Knowledge](#Useful-Knowledge)
+  - [Mannerism](#Mannerism)
+  - [Alignment](#Alignment)
+  - [Ally](#Ally)
+  - [Background](#Background)
+  - [Object](#Object)
+  - [Quirks](#Quirks)
+  - [Secret](#Secret)
+  - [Voice](#Voice)
 ___
 ![Image of Martin Felstorm](https://i.imgur.com/X578x8Al.jpg)
 ___
