@@ -32,7 +32,6 @@ His skin browned and leathered by time,
 Furrows his brow with a constant worry
 
 > *“my dear girl where have you gone,*
-
 > *I can only miss you…”*
 
 His mind gone
