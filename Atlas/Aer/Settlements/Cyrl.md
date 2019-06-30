@@ -18,7 +18,7 @@ Most goods available. Select treasures available from Trianthis. Cyrl is home to
 ## Organizations
 - The Scholara Guild Sovereign
 - The Bardic Brothers Sovereign
-- The Adventuring Guild of Cyrl
+- [The Adventuring Guild of Cyrl](../../../FactionsOrganizations/AdventuringGuildCyrl.md)
 - The Guild of the Builder of Cyrl
 - The Distiller’s Guild of Cyrl
 - The Forged Brotherhood of Cyrl

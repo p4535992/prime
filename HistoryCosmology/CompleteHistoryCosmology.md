@@ -111,7 +111,7 @@ The empire met its finish beneath the rending claws of a seemingly endless horde
 
 The flame extinguished, the hope of man gone. The shadow swept across the land. Nightfall for all mankind. Yet the morning came. The sun rose over Isle Dragor, pushing back the darkness. Halandor’s Courage, like the morning sun, pushed back the eternal darkness that we may have peace. And now the world sits broken. A sword has been shattered but thanks to Halandor’s Courage, not destroyed. Let him rise above the rest, as he passes to eternity.
 
-[Harpam Halandor](../Characters/Harpam_Halandor.md), a man from Isle Dragor, would be the one to wield Halandor’s Courage, a famed greatsword. He led a small force directly into the heart of the Ruler of Ruin’s forces. No one knows how he did it but Halandor struck down the Ruler of Ruin, ending the incursion of gnolls into the world.
+[Harpam Halandor](../Characters/HarpamHalandor.md), a man from Isle Dragor, would be the one to wield Halandor’s Courage, a famed greatsword. He led a small force directly into the heart of the Ruler of Ruin’s forces. No one knows how he did it but Halandor struck down the Ruler of Ruin, ending the incursion of gnolls into the world.
 
 ## Starfire Calamity
 **207 AN**

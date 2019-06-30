@@ -1,8 +1,8 @@
 # The Adventuring Guild of Cyrl
 ## Parent Organization
-[Adventuring Guild of Aer](./Adventuring_Guild_Aer.md)
+[Adventuring Guild of Aer](./AdventuringGuildAer.md)
 ## Leader
-[Martin Felstorm](../Characters/Martin_Felstorm.md)
+[Martin Felstorm](../Characters/MartinFelstorm.md)
 ## Motto
 >Adventure Awaits!
 ## Beliefs
