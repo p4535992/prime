@@ -25,6 +25,7 @@ ___
 - Exploring unknown and dangerous regions of Aer.
 ## Organization Structure
 Uses the D&D 5E [Renown](https://www.dndbeyond.com/sources/dmg/a-world-of-your-own#Renown) Rules
+
 Renown | Accessory | Reward
 ------------ | ------------- | -------------
 1 | Silver Medallion | Free Drinks and Food
