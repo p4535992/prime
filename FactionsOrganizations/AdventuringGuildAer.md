@@ -9,19 +9,6 @@ ___
   - [Goals](#Goals)
   - [Typical Quests](#Typical-Quests)
   - [Organization Structure](#Organization-Structure)
-    - [Tier One](#Tier-One)
-      - [Silver Medallion](#Silver-Medallion)
-      - [Gold Medallion](#Gold-Medallion)
-    - [Tier Two](#Tier-Two)
-      - [Silver Scarf](#Silver-Scarf)
-      - [Gold Scarf](#Gold-Scarf)
-      - [Red Scarf](#Red-Scarf)
-      - [Black Scarf](#Black-Scarf)
-    - [Tier Three](#Tier-Three)
-      - [Silver Chain](#Silver-Chain)
-      - [Gold Chain](#Gold-Chain)
-    - [Tier Four](#Tier-Four)
-      - [Ring of Everglow](#Ring-of-Everglow)
   - [Guild Headquarters](#Guild-Headquarters)
 ___
 ## Leader
@@ -37,17 +24,18 @@ ___
 - Retrieving items of interest for wealthy patrons.
 - Exploring unknown and dangerous regions of Aer.
 ## Organization Structure
-### Tier One
-#### Silver Medallion
-#### Gold Medallion
-### Tier Two
-#### Silver Scarf
-#### Gold Scarf
-#### Red Scarf
-#### Black Scarf
-### Tier Three
-#### Silver Chain
-#### Gold Chain
-### Tier Four
-#### Ring of Everglow
+Uses the D&D 5E [Renown](https://www.dndbeyond.com/sources/dmg/a-world-of-your-own#Renown) Rules
+
+Renown | Accessory | Reward
+------------ | ------------- | -------------
+1 | Silver Medallion | Free Drinks and Food
+4 | Gold Medallion | Free Lodging
+8 | Silver Scarf | Access to Artificer
+10 | Gold Scarf | Discounted Adventuring Gear
+12 | Red Scarf | Access to the Quest Archive
+15 | Black Scarf | Access to the entire Adventuring Guild Hall
+20 | Silver Chain | First choice of incoming quests
+30 | Gold Chain | Free supplies and adventuring gear
+50 | Ring of Everglow | Access to the Prismere Locked Room
+
 ## Guild Headquarters
