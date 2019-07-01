@@ -9,7 +9,7 @@ While Chalcis might be a beacon of culture, they also excel in the art of milita
 The city of Chalcis has a few landmarks that it is well known for. The [Theòs](../Locations/Theos.md) is a wonder and a relic left behind by the Nerathi. The [Théatro](../Locations/Theatro.md) is an amphitheater that is set against the coastline, welcoming thousands of guests every night. The Grand Archives house ancient texts and newer workings from some of the patrons that grace the city, it is open to the public. The House of Commons was an old governmental building used by the Nerathi for town hall meetings (or so the scholars believe), but it is now a market place that merchants from distant shores sell their wares.
 
 ## Kingdom
-- [Alheim](../Kingdoms/Alheim.md)
+- [Alheim](../README.md)
 
 ## Located In
 - [Kosmi](../Locations/Kosmi.md)

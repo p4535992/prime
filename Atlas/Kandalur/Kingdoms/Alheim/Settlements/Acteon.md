@@ -5,7 +5,7 @@ Acteon is the pinnacle of Imperial Alheim’s naval capabilities. The drydocks l
 ![Image of Acteon](https://cdna.artstation.com/p/assets/images/images/007/734/196/large/raphael-lacoste-aco-ev-alexandria-hd-raphael2-final-flip.jpg?1508166665)
 
 ## Kingdom
-- [Alheim](../Kingdoms/Alheim.md)
+- [Alheim](../README.md)
 
 ## Located In
 - [Kosmi](../Locations/Kosmi.md)
