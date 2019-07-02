@@ -1,0 +1,2 @@
+# The Rising Lands
+The Rising Lands have a rich history dating back to the earliest settlers in the region. The last few centuries, the Blackstone family has ruled the kingdom until they signed a treaty and ceded to the Empire. Now, Baron Blackstone rules these lands.

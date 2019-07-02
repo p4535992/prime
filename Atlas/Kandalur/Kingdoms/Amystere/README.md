@@ -1,0 +1,2 @@
+# Amystere
+Far to the south, the hills give way to weak and barren trees. Only the bravest of travelers seeks out the rare yet powerful herbs and chemicals found in these vast swamps. Among the dangerous inhabitants are the Fallen Elves, a banished, sickly people. Though depending on the storyteller, they descend from the greatest hero of all.
