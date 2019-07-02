@@ -33,7 +33,7 @@
   - [Stippinger Orchard](#Stippinger-Orchard)
   - [Graveyard of Heroes Past](#Graveyard-of-Heroes-Past)
     - [Graves](#Graves)
-- [Crypt of the Chosen](#Crypt-of-the-Chosen)
+  - [Crypt of the Chosen](#Crypt-of-the-Chosen)
     - [Tombs](#Tombs)
 
 ## Introduction
@@ -131,7 +131,7 @@ A graveyard sits alone on a hill near the Tor entrance. A lone watcher can be se
 - Thalion
 - Iltana
 
-# Crypt of the Chosen
+## Crypt of the Chosen
 
 ![Crypt of the Chosen](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/627bc589-b21e-47b2-8cf2-7617185ee1ac/d4n0uik-57ff44ef-f4d4-4ba3-8611-61dbc8fd7020.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyN2JjNTg5LWIyMWUtNDdiMi04Y2YyLTc2MTcxODVlZTFhY1wvZDRuMHVpay01N2ZmNDRlZi1mNGQ0LTRiYTMtODYxMS02MWRiYzhmZDcwMjAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xTn685iHn62_L2Ypa1CN-eDufEfTlKsrbCGbdjNIh3Y)
 
