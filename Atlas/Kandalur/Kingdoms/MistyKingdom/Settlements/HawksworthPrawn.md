@@ -1,6 +1,7 @@
 # Hawksworth Prawn
 
 ![Hawksworth Prawn](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a63aaed-8bd9-4c3e-8b9c-00e49f3aa2ad/d89kdlv-e461e1be-7875-4708-98c3-53bbad25596e.jpg/v1/fill/w_1280,h_576,q_75,strp/port_city_by_tyleredlinart_d89kdlv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNWE2M2FhZWQtOGJkOS00YzNlLThiOWMtMDBlNDlmM2FhMmFkXC9kODlrZGx2LWU0NjFlMWJlLTc4NzUtNDcwOC05OGMzLTUzYmJhZDI1NTk2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rBpKrfP8tV7tVz3MBi4Mcj2nLGgq6LyqmpD9Bc7PQCA)
+*Port City by [TylerEdlinArt](https://www.deviantart.com/tyleredlinart).*
 
 - [Hawksworth Prawn](#Hawksworth-Prawn)
   - [Locations of Interest](#Locations-of-Interest)
@@ -18,5 +19,6 @@ A particularly fanatical cult of Bahamut then moved in and took it upon themselv
 ### Neb's Accoutrements and Oddities
 
 ![Nebs Shop](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d64350dc-b8b0-4cbd-8b7c-22149998601f/dcap10p-b832c776-ea63-474b-bce8-34fe224001e6.png/v1/fill/w_1600,h_871,strp/magic_shop_by_nieris_dcap10p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODcxIiwicGF0aCI6IlwvZlwvZDY0MzUwZGMtYjhiMC00Y2JkLThiN2MtMjIxNDk5OTg2MDFmXC9kY2FwMTBwLWI4MzJjNzc2LWVhNjMtNDc0Yi1iY2U4LTM0ZmUyMjQwMDFlNi5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OogCei9cKd_GrZAy_f8saUHPYMQGxxQz4oZ_qSw3dfg)
+*Magic shop by [Nieris](https://www.deviantart.com/nieris).*
 
 Thousands of trinkets and oddities, dazzling colors. Cups covered in runes and filled with small stones, leather-bound tomes, etc.

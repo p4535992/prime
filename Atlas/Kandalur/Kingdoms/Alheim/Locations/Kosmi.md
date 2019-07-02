@@ -1,6 +1,7 @@
 # Kosmi
 
 ![Kosmi](http://www.greece-is.com/wp-content/uploads/2017/03/OLIVE-TREES-2.jpg)
+*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 Kosmi is home to two ports. The first [Acteon](../Settlements/Acteon.md), a military port, lies at the northern most point of the island. The second is [Chalcis](../Settlements/Chalcis.md), a town rebuilt upon Nerathi ruins on the southwestern coast. The coastline of Kosmi is very rocky with only a few palm trees jutting out from atop crags and ledges. There are very few native animals to the island; besides a few large species of birds, there are only small reptiles and rodents that call the island their home.
 

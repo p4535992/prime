@@ -1,6 +1,7 @@
 # Chalcis
 
 ![Chalcis](https://cdn.discordapp.com/attachments/453375988991131659/469014823623983124/ancient_athens_by_nkabuto-d85zv9t.png)
+*Ancient Athens by [nkabuto](https://www.deviantart.com/nkabuto).*
 
 The city of Chalcis is home to 20,000 people, mainly humans, but at any given time there are near 30,000 people in the city. The city is a beacon for artists from all over the world. Poets, actors, singers and bards fill the amphitheaters on a nightly basis. Chalcis is also a destination for those that seek to acquire knowledge, especially from the Ancient Age, Elder Age and the Age or Nerath. While there is a hefty fee to gain access to the vaults, all parts of the archives are open to the public. This matches the beliefs of the citizens, in that “all peoples should be educated, in order to be a light in these dark times.” Simply said, Chalcis is a place of culture and of the arts.
 
