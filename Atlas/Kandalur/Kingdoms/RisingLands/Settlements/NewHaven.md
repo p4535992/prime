@@ -62,7 +62,6 @@ Alchemical healers are available for various healing services. The Sisters of So
 During the rebuilding of New Haven, two sisters built a homestead and administered healing services. It would grow to become something much more.
 ## The Dwarvish Sanctum
 ![Dwarvish Sanctum](https://i.pinimg.com/736x/38/fb/f3/38fbf3529fbbcdd8bd89b59c1c6dc768.jpg)
-
 *Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 This place now serves as a favorite staying place of dwarves visiting New Haven. In the years following its founding, it was a safe haven for a race that had been run from its ancestral homes.
@@ -110,7 +109,6 @@ The architecture of the Garrison is simple by design. The curtain wall extends i
 ## The Night's Gate
 ## The Fist of the God's Chosen (The Tor)
 ![Image of Door](../../../Images/TorDoor.jpg)
-[](https://www.notion.so/12ae7f7c53e341b7ad94cf0ffcaab231#8878dc9c9ad04be59d031210cde07b91)
 *The Tor by Neal Sunderman*
 
 Deep within the mound, lies the tomb of an unnamed soldier. A small band of heroes, bound together by storm-peace, vanquished the monster that resided within. More than a year later, heroes set out from the mission of the first three make their home at the tor that started it all.

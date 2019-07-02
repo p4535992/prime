@@ -1,0 +1,14 @@
+# The Ohgean Islands
+From the personal writings of Archwell Brinstein world traveler extraordinaire:
+
+Day 1" I have just arrived at the Ohgean Islands, curious home to many races that has remained untouched in the years since the fall of the Nerathi empire. I have come in an effort to document the lives of these people and seek out answers as to how this remote paradise has remained pristine for all of these years…"
+
+Day 5 " The natives of the island are perfectly civilized although somewhat secretive. No one can blame their mistrust of an outsider though, far be it from me to criticize their ways, what with the success they have found in keeping safe in these increasingly dark times. The island seems to have ample resources to keep the island sustained. The odd thing is, I have seen several gold veins in the rocky outcroppings around the hub village of Craftholme and yet the trade to this island appears to be nil. These people seem to have created themselves some sort of self sustaining culture. Very interesting. And with that I shall retire to the tolling of the midnight bell."
+
+Day 7 " Something odd to report. I have seen some ships arrive in the past few days and when I approached the dock I was ushered away by two kindly faced guards who simply told me that the ships were for prisoner transport. I could swear I distinctly saw people being led off of the boats rather than onto. Perhaps I shall investigate this further in the future…"
+
+Day 8 " A new shipment of “prisoners” was brought today. I managed to sneak a spyglass with me to a high point on the island not far from the docks and I distinctly saw people of various races exiting the boat blindfolded and bound. One of the villagers nearly spotted me but I managed to duck behind a rock and keep myself well under cover. I plan on leaving this island first thing in the morning and heading to Arna. It appeared the ships bringing the “prisoners” was flying an Arnese flag and I believe the king could elaborate on this odd transfer of people.
+
+Day 9 " The midnight bell just tolled and I hear the approach of many feet outside my small shack. I see torches burning and I fear I have made some terrible mistake in my search for answers. I shall attempt to make my escape but if, for some reason, I am unable, I hope that this book will explain my….."
+
+Day 30 " I have found my old logbook from this trip. It seems I was more distressed than necessary, for this place has become my home. My family here was only approaching to show me the light of the Ancient Ones. I feel as though I have found a light in my soul that I had never known existed before. If this book is to be found I pray that no one fear for my safety, for I am at home with these people. But now I must go. The Church Bells are tolling, and the new arrivals must be taught. Or given. They will choose…"
