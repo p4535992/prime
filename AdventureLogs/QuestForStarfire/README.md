@@ -1,7 +1,22 @@
 # Quest for Starfire Adventure Logs
 *This is not a complete set of adventure logs. Rather, its documenting all of the session logs we kept.*
 
+## Introduction
+One fateful night, during a violent electrical storm, 3 adventurers sought shelter together in an abandoned tor. Argarwane, the rogue with no memory, Chigaru, the mysterious deva, and Vengeance, the lone tiefling started out on a journey that would change their fates along with the fate of the world.
+
+![Stallcroft](https://3.bp.blogspot.com/-xxBUGEnPZn8/WP131mVmHZI/AAAAAAAAMAA/fVUVdA4ZAkUmm4-wWg38-8786RJofm3ngCLcB/s1600/soakycastle.jpg)
+*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+
+In the town of Stallcroft on that fateful night, they were told the prophecy of a coming evil by the wizard Petendithas Oaklord. They would begin the journey that could save this world. 
+A mysterious being, known only as Starfire, was creating something so powerful that it could challenge the gods. With the fall of the Nerathi Empire nearly 200 years in the past, everyone is fighting for power. The heroes must learn more of Starfire and find him before it is too late. No being should possess power beyond that of the gods. Will they succeed? Will Starfire claim the power of the gods? Will the world be thrown into war? Only the heroes can determine the fate of the world…
+
+![Nerath](https://cdn.inprnt.com/thumbs/f5/44/f544610119e7872a64599064cb15addf.jpg?response-cache-control=max-age=2628000)
+*Cultures of Nerath by [Sam Burley](http://www.samburley.com).*
+
+---
+
 - [Quest for Starfire Adventure Logs](#Quest-for-Starfire-Adventure-Logs)
+  - [Introduction](#Introduction)
   - [Genesis](#Genesis)
   - [In the Mountain](#In-the-Mountain)
   - [Welcome to the Misty Kingdom](#Welcome-to-the-Misty-Kingdom)
