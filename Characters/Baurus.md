@@ -20,7 +20,7 @@ He struck a deal with the Emperor of Alheim and is now an ally of the Empire of 
 
 ## Past Campaign Notes
 
-Baurus comes from the dwarven mountains in the Misty Kingdom. He prefers treasure-hunting to anything else but has aligned with the adventuring party quite nicely and is curious about this Starfire character.
+Baurus comes from the dwarven mountains in the Misty Kingdom. He prefers treasure-hunting to anything else but has aligned with the adventuring party quite nicely and is curious about this [Starfire](/Characters/Starfire.md) character.
 
 Baurus now knows what happened to Minora. The city was abandoned after a struggle with the drow. It is his belief that the drow came in search of Ashkahir Faeldaroch. He is unsure if their search was successful. He was unable to track his friends’ whereabouts as well.
 

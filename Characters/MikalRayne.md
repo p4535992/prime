@@ -8,7 +8,7 @@ A young son of the Flushing Rayne royal line.
 - 207 AN
 
 ## Histories
-This young warrior had grabbed the attention of many in the [Cascades](../Atlas/Kandalur/Kingdoms/Cascades/README.md). His troop was continually winning battles that they shouldn’t. Mikal was a strange noble with an attitude of a snob.
+This young warrior had grabbed the attention of many in the [Cascades](../Atlas/Kandalur/Realms/Cascades/README.md). His troop was continually winning battles that they shouldn’t. Mikal was a strange noble with an attitude of a snob.
 
 ## Vampiric Nature
 Mikal was a vampire. He covered his mouth when speaking to hide his vampiric nature.

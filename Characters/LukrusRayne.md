@@ -6,9 +6,9 @@
 - [Lukrus Rayne](#Lukrus-Rayne)
   - [Death](#Death)
 
-Lukrus Rayne held a tremendous amount of wealth. The [Flushing Raynes](../Atlas/Kandalur/Kingdoms/Cascades/Settlements/FlushingRaynes.md) were a prominent house with a prominent military force.
+Lukrus Rayne held a tremendous amount of wealth. The [Flushing Raynes](../Atlas/Kandalur/Realms/Cascades/Settlements/FlushingRaynes.md) were a prominent house with a prominent military force.
 
-Lukrus was a vampire with a raging temper that had actually hurt his status in the [Cascades](../Atlas/Kandalur/Kingdoms/Cascades/README.md). Once a growing estate, many blamed his ‘descent into madness’ for its decline.
+Lukrus was a vampire with a raging temper that had actually hurt his status in the [Cascades](../Atlas/Kandalur/Realms/Cascades/README.md). Once a growing estate, many blamed his ‘descent into madness’ for its decline.
 
 ## Death
 - 207 AN

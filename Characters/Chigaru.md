@@ -47,7 +47,7 @@ The man explained that the village had been set upon in the night by demons who 
 Chigaru the priest was no more. From this point on he is Chigaru the Avenger. Setting forth from that place he struck North for 4 days, and on the 5th day found himself caught in a raging storm. While seeking shelter he came across two people. A Tiefling, and a Human. Chigaru felt a touch of destiny around him and his new companions…what they will do in the months to come will shake the foundations of the earth and put the cosmos into motion.
 
 ## Occupation
-Unknown. He was last seen praying at the Crypt of the Chosen in [New Haven](/Atlas/Kandalur/Kingdoms/RisingLands/Settlements/NewHaven.md).
+Unknown. He was last seen praying at the Crypt of the Chosen in [New Haven](/Atlas/Kandalur/Realms/RisingLands/Settlements/NewHaven.md).
 ## Physical Description
 ## Attributes/Skills
 ## Values/Motivations

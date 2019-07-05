@@ -2,7 +2,7 @@
 *This is not a complete set of adventure logs. Rather, its documenting all of the session logs we kept.*
 
 ## Introduction
-One fateful night, during a violent electrical storm, 3 adventurers sought shelter together in an abandoned tor. Argarwane, the rogue with no memory, Chigaru, the mysterious deva, and Vengeance, the lone tiefling started out on a journey that would change their fates along with the fate of the world.
+One fateful night, during a violent electrical storm, 3 adventurers sought shelter together in an abandoned tor. [Argarwane](/Characters/Argarwane.md), the rogue with no memory, [Chigaru](/Characters/Chigaru.md), the mysterious deva, and [Vengeance](/Characters/Vengeance.md), the lone tiefling started out on a journey that would change their fates along with the fate of the world.
 
 ![Stallcroft](https://3.bp.blogspot.com/-xxBUGEnPZn8/WP131mVmHZI/AAAAAAAAMAA/fVUVdA4ZAkUmm4-wWg38-8786RJofm3ngCLcB/s1600/soakycastle.jpg)
 
