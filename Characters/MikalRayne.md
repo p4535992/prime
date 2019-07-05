@@ -1,6 +1,6 @@
 # Mikal Rayne
 ![Mikal Rayne](https://stuffershack.com/wp-content/uploads/2015/09/4e0a6b87c87a0daca01d2f83266e13e5.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 A young son of the Flushing Rayne royal line.
 

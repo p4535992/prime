@@ -1,7 +1,7 @@
 # The Flushing Raynes
 
 ![Flushing Raynes](https://asongoficeandtootles.files.wordpress.com/2016/02/castle_fantasy_art_scenery_wallpaper_alex_popescu-wide.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 *The Flushing Raynes have all been executed or exiled.*
 

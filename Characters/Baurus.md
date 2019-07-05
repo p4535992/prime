@@ -2,7 +2,7 @@
 *A Dwarven Treasure Hunter*
 
 ![Baurus](https://gandalara.files.wordpress.com/2010/07/kanamack.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 ## Background
 

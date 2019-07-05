@@ -2,7 +2,7 @@
 
 ![Kraenage]()
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 ## Table of Contents <!-- omit in toc -->
 

@@ -4,7 +4,7 @@ Maetrage is known by all in Maransa as the Jewel in the Sand. All outside Marans
 
 ![Maetrage](http://cdn.obsidianportal.com/assets/5798/Selenica.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 ## Table of Contents <!-- omit in toc -->
 

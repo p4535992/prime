@@ -3,7 +3,7 @@
 
 ![Chigaru](https://vignette.wikia.nocookie.net/forgottenrealms/images/7/72/Avenger.jpg/revision/latest?cb=20090323072223)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 - [Chigaru](#Chigaru)
   - [Death](#Death)

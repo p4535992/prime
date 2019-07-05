@@ -4,7 +4,7 @@ The image below shows Sky Academy, atop which sits the Halls of Halandor.
 
 ![Skylast](https://wallpapercave.com/wp/GxaBham.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 This amazing city is second in size only to Maetrage. This city however, reaches for the skies. Walkways, bridges, and even roads crisscross above the earth to create a wondrous sight. The lower regions of the city are the slums with the nobles living higher up in towers and skydomes. Skylast holds a great deal of power and is full of travelers from all over Kandalur.
 
@@ -36,13 +36,13 @@ The Council at Skylast is the ruling body of Skylast as well as Isle Dragor. No 
 
 The council is made up of:
 
-- Anastrianna Ariandar
-- Ander Rockwater
-- Baern Stormhammer
-- Damakos Decimeth
-- Davi Navah
-- Ghesh Rhaman
-- Keira Shawna
+- [Anastrianna Ariandar](./Characters/AnastriannaAriandar.md)
+- [Ander Rockwater](./Characters/AnderRockwater.md)
+- [Baern Stormhammer](./Characters/BaernStormhammer.md)
+- [Damakos Decimeth](./Characters/DamakosDecimeth.md)
+- [Davi Navah](./Characters/DaviNavah.md)
+- [Ghesh Rhaman](./Characters/GheshRhaman.md)
+- [Keira Shawna](./Characters/KeiraShawna.md)
 
 ## Defenses
 
@@ -88,7 +88,7 @@ Admittance into the Sanctum of Mages is rare. The Council has no control over th
 
 ![Io's Flame](https://c.wallhere.com/photos/b2/03/prince_of_persia_castle_bridge_flags-1096100.jpg!d)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 Rare warriors from around the world get an invite to study at Io’s Flame. This school worships the dragon god, Io through worshipping Bahamut (and occasionally Tiamat). Warriors learn and study the art of the dragon and become world-renown fighters through their schooling. It is said that Harpam Halandor studied here.
 

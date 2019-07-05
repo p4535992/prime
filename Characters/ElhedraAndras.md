@@ -3,7 +3,7 @@
 
 ![Elhedra Andras](https://i.pinimg.com/originals/ce/36/a2/ce36a28f105aebb4a5b4f967134adf58.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 - [Elhedra Andras](#Elhedra-Andras)
   - [Death](#Death)

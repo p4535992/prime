@@ -3,7 +3,7 @@
 
 ![Argarwane](https://i.pinimg.com/originals/b5/f1/49/b5f14933f0f0d38dabba501d8bd465e5.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 - [Argarwane](#Argarwane)
   - [Death](#Death)
@@ -44,7 +44,7 @@ After a fierce battle with Gauthak, Lord Argaroth was defeated and the dragon sp
 
 ![Dragon Spirit](http://i34.servimg.com/u/f34/11/90/78/08/demon_11.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 ## Appearance
 ## Abilities

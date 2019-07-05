@@ -62,7 +62,7 @@ Alchemical healers are available for various healing services. The Sisters of So
 During the rebuilding of New Haven, two sisters built a homestead and administered healing services. It would grow to become something much more.
 ## The Dwarvish Sanctum
 ![Dwarvish Sanctum](https://i.pinimg.com/736x/38/fb/f3/38fbf3529fbbcdd8bd89b59c1c6dc768.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 This place now serves as a favorite staying place of dwarves visiting New Haven. In the years following its founding, it was a safe haven for a race that had been run from its ancestral homes.
 
@@ -71,7 +71,7 @@ This place now serves as a favorite staying place of dwarves visiting New Haven.
 Baurus himself helped lay the stones that would one day become this Dwarvish refuge.
 ## The Elvish Refuge
 ![Elvish Refuge](https://wallpoper.com/images/00/25/15/45/library-fantasy_00251545.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 The Elvish Refuge is now mostly used as a retreat for elves in the region. When they must stay in the city but long for the woods, this is the perfect place to be.
 

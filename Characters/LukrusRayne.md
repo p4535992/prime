@@ -1,7 +1,7 @@
 # Lukrus Rayne
 
 ![Lukrus Rayne](https://vignette.wikia.nocookie.net/gameofthronesfanon/images/9/9b/Pure-blood_borderman.jpg/revision/latest?cb=20160817211649)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 - [Lukrus Rayne](#Lukrus-Rayne)
   - [Death](#Death)

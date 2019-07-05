@@ -3,7 +3,7 @@
 
 ![Sanren Okelhim](https://i.pinimg.com/564x/16/e0/bf/16e0bff84009e9b1f7b0167d18b7e317.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 - [Sanren Okelhim](#Sanren-Okelhim)
   - [Death](#Death)

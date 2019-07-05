@@ -1,7 +1,7 @@
 # The Gates of Halan Uhl
 
 ![Gates of Halan Uhl](https://i.imgur.com/xFx8w7i.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 These wondrous gates are spread across the Misty Kingdom as well as across Isle Dragor. Some say there are dozens and some believe there are thousands.
 

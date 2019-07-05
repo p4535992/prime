@@ -6,7 +6,7 @@ One fateful night, during a violent electrical storm, 3 adventurers sought shelt
 
 ![Stallcroft](https://3.bp.blogspot.com/-xxBUGEnPZn8/WP131mVmHZI/AAAAAAAAMAA/fVUVdA4ZAkUmm4-wWg38-8786RJofm3ngCLcB/s1600/soakycastle.jpg)
 
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 In the town of Stallcroft on that fateful night, they were told the prophecy of a coming evil by the wizard Petendithas Oaklord. They would begin the journey that could save this world. 
 A mysterious being, known only as Starfire, was creating something so powerful that it could challenge the gods. With the fall of the Nerathi Empire nearly 200 years in the past, everyone is fighting for power. The heroes must learn more of Starfire and find him before it is too late. No being should possess power beyond that of the gods. Will they succeed? Will Starfire claim the power of the gods? Will the world be thrown into war? Only the heroes can determine the fate of the world…

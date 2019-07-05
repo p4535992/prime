@@ -1,7 +1,7 @@
 # Aegrias Prime
 
 ![Aegrias Prime](http://connorssettings.wdfiles.com/local--files/arkhosia/City%20-%20dragonborn%20capital.jpg)
-*Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 - [Aegrias Prime](#Aegrias-Prime)
   - [Locations of Interest](#Locations-of-Interest)
