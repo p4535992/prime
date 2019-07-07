@@ -1,0 +1,50 @@
+{
+  "year_len": 336,
+  "events": 1,
+  "n_months": 12,
+  "months": [
+    "Dawn of the World",
+    "First Light",
+    "First Sow",
+    "Astral Rain",
+    "Second Sow",
+    "Life of the World",
+    "Sun's Sky",
+    "First Harvest",
+    "Last Harvest",
+    "Gathering Storm",
+    "Last Light",
+    "Eve of the World"
+  ],
+  "month_len": {
+    "Dawn of the World": 28,
+    "First Light": 28,
+    "First Sow": 28,
+    "Astral Rain": 28,
+    "Second Sow": 28,
+    "Life of the World": 28,
+    "Sun's Sky": 28,
+    "First Harvest": 28,
+    "Last Harvest": 28,
+    "Gathering Storm": 28,
+    "Last Light": 28,
+    "Eve of the World": 28
+  },
+  "week_len": 7,
+  "weekdays": [
+    "Day of the Sun",
+    "Day of the Moon",
+    "Day of the Prime",
+    "Day of the Wind",
+    "Day of the Air",
+    "Day of the Fire",
+    "Day of the Star"
+  ],
+  "n_moons": 3,
+  "moons": ["Lunaur", "Aureltus", "Aurenhei"],
+  "lunar_cyc": { "Lunaur": 28, "Aureltus": 14, "Aurenhei": 41 },
+  "lunar_shf": { "Lunaur": 1, "Aureltus": 1, "Aurenhei": 0 },
+  "year": 307,
+  "first_day": 0,
+  "notes": {}
+}

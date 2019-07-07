@@ -16,6 +16,7 @@
 - [Argarwane](./Argarwane.md)
 - [Baurus](./Baurus.md)
 - [Jinroy](./Jinroy.md)
+- [Lomian](./Lomian.md)
 - [Shadow](./Shadow.md)
 - [Silmarien](./Silmarien.md)
 - [Three](./Three.md)

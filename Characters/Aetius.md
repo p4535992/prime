@@ -1,12 +1,30 @@
-# Aetius
+# Aetius <!-- omit in toc -->
 
 Summary
 
-![Aetius]()
+![Aetius](https://db4sgowjqfwig.cloudfront.net/images/4523570/90EF0862-0707-4C56-981F-33626328D2BB.jpeg)
 
 _Know the source of this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI)._
 
-<insert ToC here>
+## Table of Contents <!-- omit in toc -->
+
+- [Death](#Death)
+- [Introduction](#Introduction)
+- [Notes](#Notes)
+  - [Campaign Notes](#Campaign-Notes)
+- [Occupation and History](#Occupation-and-History)
+  - [Becoming Starfire](#Becoming-Starfire)
+- [Appearance](#Appearance)
+- [Abilities](#Abilities)
+- [Talent](#Talent)
+- [Behavior](#Behavior)
+- [Useful Knowledge](#Useful-Knowledge)
+- [Mannerisms/Quirks](#MannerismsQuirks)
+- [Ideal](#Ideal)
+- [Bond](#Bond)
+- [Flaw or Secret](#Flaw-or-Secret)
+- [Object](#Object)
+- [Voice](#Voice)
 
 ## Death
 
