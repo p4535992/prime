@@ -15,6 +15,7 @@
 - [Aetius](./Aetius.md)
 - [Argarwane](./Argarwane.md)
 - [Baurus](./Baurus.md)
+- [Gauthak](./Gauthak.md)
 - [Jinroy](./Jinroy.md)
 - [Lomian](./Lomian.md)
 - [Shadow](./Shadow.md)

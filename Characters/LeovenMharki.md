@@ -1,10 +1,10 @@
-# Light <!-- omit in toc -->
+# Leoven Mharki <!-- omit in toc -->
 
-The assassin in white.
+A wizard at Brightkeep.
 
-![Light](https://cdnb.artstation.com/p/assets/images/images/005/568/521/large/jean-go-masteryi-cosmic-final-1920.jpg?1492047013)
+![Leoven Mharki](https://i.pinimg.com/originals/bf/56/1a/bf561a779bfa115cc90217c20c18465a.jpg)
 
-*Cosmic Blade Master Yi by [Jean Go](https://www.artstation.com/jeango).*
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -45,15 +45,17 @@ The assassin in white.
 
 ## Useful Knowledge
 
+He is the resident wizard for the “Stars and Far Realm” section of Brightkeep.
+
 ## Mannerisms/Quirks
+
+- He twirls his hair and tugs on his beard when he talks to people.
 
 ## Ideal
 
 ## Bond
 
 ## Flaw or Secret
-
-His name is Yarehn. His brother is Yarehl, also known as [Shadow](./Shadow.md). He murdered Kord, ushering in the Great Silence.
 
 ## Object
 
