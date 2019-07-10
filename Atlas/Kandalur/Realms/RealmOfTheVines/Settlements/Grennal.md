@@ -4,7 +4,7 @@
 
 *Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
-Deep within the Realm of the Vines lies the elven city of Grennal. Newer is this city than the fabled ancient city of Raignoria. Still, high ranking elves of the forest make their home here. Some say that King Antoban Heroldi has his lineage from here. His mother’s brother, Rolen is one of the highest elves in this part of the Realm of the Vines. Near Grennal, rumors are that the Feywild will cross over into parts of the Realm that are this enchanted…
+Deep within the Realm of the Vines lies the elven city of Grennal. Newer is this city than the fabled ancient city of Raignoria. Still, high ranking elves of the forest make their home here. Some say that King Antoban Heroldi has his lineage from here. His mother’s brother, [Rolen](/Characters/Rolen.md) is one of the highest elves in this part of the Realm of the Vines. Near Grennal, rumors are that the Feywild will cross over into parts of the Realm that are this enchanted…
 
 ## Table of Contents <!-- omit in toc -->
 
