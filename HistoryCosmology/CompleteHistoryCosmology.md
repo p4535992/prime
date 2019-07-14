@@ -116,7 +116,7 @@ The flame extinguished, the hope of man gone. The shadow swept across the land. 
 ## Starfire Calamity
 **207 AN**
 
-Two hundred years after the fall of the Nerathi Empire, a threat was rising. A being known as Starfire was building a magical device known as the Gaze. It would rival the power of the gods. A prophecy led a group that would become the God’s Chosen on a mission to stop him.
+Two hundred years after the fall of the Nerathi Empire, a threat was rising. A being known as [Starfire](/Characters/Starfire.md) was building a magical device known as the Gaze. It would rival the power of the gods. A prophecy led a group that would become the God’s Chosen on a mission to stop him.
 
 After the Starfire Calamity, there was a great Shattering of the Arch. Planes were ripped from reality and thrown into the nothingness of space-time. The World Axis was no more. The gods were helpless to save it – the end was here. Yet, something happened. The Arch rearranged itself. The cosmology warped and changed until the Great Wheel was born. However, the Weave, once guided by divine magic, was now free…and dangerous. Practitioners of magic saw the new raw power of it, and the inherent changes and danger it brought to any magic user.
 
