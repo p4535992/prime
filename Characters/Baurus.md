@@ -78,6 +78,10 @@ Baurus retrieved the Axe of the Dwarvish Lords. While traveling through Minora a
 
 ### Monocle of Truth
 
+![Monocle of Truth](https://vignette.wikia.nocookie.net/kolidascope/images/6/6b/103149.jpg/revision/latest?cb=20101015223257)
+
+*Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
+
 This item allows the wearer to see the true form of beings. It can see right through shapeshifters and their tricks.
 
 The monocle belonged to Argid Madrithin. His daughter inherited it and was rumored to have been locked in the Tower of Waiting due to her malicious acts around Fallcrest. She has never been seen again.
