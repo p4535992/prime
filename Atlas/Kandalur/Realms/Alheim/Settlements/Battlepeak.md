@@ -1,6 +1,6 @@
-# Shadove <!-- omit in toc -->
+# Battlepeak <!-- omit in toc -->
 
-![Shadove](https://www.iamag.co/wp-content/uploads/2016/01/wow-concept-art16.jpeg)
+![Battlepeak]()
 
 *Do you know who to credit for this image? Click [here](https://airtable.com/shr3qtfCwGUUMYQqI).*
 
