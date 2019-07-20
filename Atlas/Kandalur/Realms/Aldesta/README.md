@@ -1,4 +1,4 @@
-# Aldesta
+# Aldesta <!-- omit in toc -->
 
 *This red desert is filled with canyons and red rocks that reach for the skies. Gnomes make their home within this kingdom and currently hold rule in a republic on the verge of a budding democracy.*
 
@@ -6,4 +6,13 @@
 
 *landscape of the desert by [vennom07](https://www.deviantart.com/vennom07).*
 
+- [Intro](#Intro)
+- [Flora](#Flora)
+
+## Intro
+
 Philosophers fill the streets of settlements in this is advanced society, sometimes gathering hundreds of listeners around the local fountain to talk philosophy and politics.
+
+## Flora
+
+The red rocks and canyon deserts of Aldesta create an interesting arrangement of abstract plantlife. The gnomes believe that half of the plantlife in the region has yet to be identified.
