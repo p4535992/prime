@@ -116,7 +116,7 @@ The Rising Lands rallied and joined the Heroic along with the gnomes of Aldesta 
 
 > “You are too late. This is the Dawn of the Everwar. There is no end.”
 
-The Aspect of the Long Forgotten God reached the Dream Tree near the end of the war. Ydoril, the moon elf warrior of legend was able to surprise him there. Ydoril led a group of moon elves in a protective ritual at the Dream Tree. The power of the tree all but destroyed the Aspect but not before his evil influence had tainted the blood of Ydoril. The moon elf warrior descended into madness and took his closest followers when he was banished from his homeland. His descendants and those of his followers are called the Fallen Elves or the Elves of the Fall. These creatures still inhabit Amystere and the Forgotten Lands.
+The Aspect of the Long Forgotten God reached the Dream Tree near the end of the war. [Ydoril](/Characters/Ydoril.md), the moon elf warrior of legend was able to surprise him there. Ydoril led a group of moon elves in a protective ritual at the Dream Tree. The power of the tree all but destroyed the Aspect but not before his evil influence had tainted the blood of Ydoril. The moon elf warrior descended into madness and took his closest followers when he was banished from his homeland. His descendants and those of his followers are called the Fallen Elves or the Elves of the Fall. These creatures still inhabit Amystere and the Forgotten Lands.
 
 # Common Age
 
